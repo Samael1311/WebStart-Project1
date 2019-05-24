@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,UAAU,CAAC;EACV,MAAM,EAAE,IAAI;CAAG",
+    "sources": [
+        "../../WebStart/src/sass/style.sass",
+        "../../WebStart/src/sass/blocks/_colors.sass",
+        "../../WebStart/src/sass/_interface.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
